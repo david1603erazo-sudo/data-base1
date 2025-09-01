@@ -20,3 +20,5 @@ CREATE TABLE users(id SERIAL PRIMARY KEY, ide_number text not null, firstname te
 -- queri par ainsertar datos 
 
 insert into users(ide_number,firstname,lastname,mobile_number,email,password) values('87067555','joan','ayala','3122429021','joan@mail.com','1234');	
+insert into users(ide_number,firstname,lastname,mobile_number,email,password) values('8706ddd5','david','erazo','312242912','david@mail.com','12364');	
+
